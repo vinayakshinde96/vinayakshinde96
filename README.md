@@ -4,12 +4,12 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"/> 
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28"/> 
   Software Developer
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -18,8 +18,8 @@
 
 - 🌍 From Pune, India 🇮🇳  
 - 💻 Passionate about Software Development  
-- 📚 Learning and improving daily  
-- 🚀 Building projects  
+- 🚀 Love building real-world projects  
+- 📚 Continuously learning new technologies  
 
 ---
 
