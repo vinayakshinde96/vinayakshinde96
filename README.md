@@ -3,7 +3,10 @@
   Hi, I'm Vinayak Shinde
 </h1>
 
-<h3 align="center">💻 Software Developer</h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"/> 
+  Software Developer
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
