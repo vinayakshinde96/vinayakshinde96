@@ -6,15 +6,7 @@
 <h3 align="center">💻 Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Developer;Coding+Everyday;Learning+New+Technologies" />
-</p>
-
----
-
-## 🖼️ Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
 </p>
 
 ---
