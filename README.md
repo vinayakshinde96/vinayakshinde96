@@ -31,3 +31,9 @@
 ## 📫 Contact Me
 
 - 📧 shindevinayak2727@gmail.com  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinayak-shinde-0454622ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
