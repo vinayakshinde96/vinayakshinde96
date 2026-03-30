@@ -3,17 +3,14 @@
   Hi, I'm Vinayak Shinde
 </h1>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28"/> 
-  Software Developer
-</h3>
+<h3 align="center">💻 Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=I+am+a+Software+Developer+from+India" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -22,8 +19,8 @@
 
 - 🌍 From Pune, India 🇮🇳  
 - 💻 Passionate about Software Development  
-- 🚀 Love building real-world projects  
-- 📚 Continuously learning new technologies  
+- 🚀 Building projects  
+- 📚 Learning new technologies  
 
 ---
 
