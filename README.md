@@ -1,34 +1,32 @@
 <h1 align="center">
-  Hi 👋, I'm Vinayak Shinde
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vinayak+Shinde;Software+Developer+💻;Java+Developer+☕;Problem+Solver+🚀;Open+to+Work+🔥" />
 </h1>
 
 <h3 align="center">
-  Software Developer | Open to Opportunities
+💻 Software Developer | Java Enthusiast | Open To Opportunities
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Developer;Building+Real-World+Projects;Problem+Solver;Always+Learning" />
+  <img src="https://komarev.com/ghpvc/?username=vinayakshinde96&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🌍 Based in Pune, Maharashtra, India
+- 🌍 Based in Pune, Maharashtra, India
+- 💻 Passionate Software Developer
+- ☕ Java Developer
+- 🌱 Currently Learning Full Stack Development
+- 🔥 Love Building Real World Projects
+- 🎯 Open To Software Developer Roles
+- ⚡ Fun Fact: I Love Solving Coding Problems
 
-💻 Passionate about Software Development
-
-☕ Java Developer
-
-🚀 Building Projects & Improving Every Day
-
-📚 Exploring New Technologies
-
-🎯 Open to Software Developer Opportunities
+<br>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -38,13 +36,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinayakshinde96&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinayakshinde96&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakshinde96&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakshinde96&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -53,26 +51,45 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakshinde96&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakshinde96&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
-🏅 Consistently Learning New Technologies
-
-🏅 Building Personal Projects
-
-🏅 Improving Problem Solving Skills
-
-🏅 Active GitHub Learner
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vinayakshinde96&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 Contribution Graph
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakshinde96&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 📚 Student Management System | Java & MySQL Based CRUD Project |
+| 🏦 Banking Management System | Core Java Application |
+| 🛒 E-Commerce Website | HTML, CSS, JavaScript |
+| 📝 Portfolio Website | Personal Responsive Portfolio |
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/vinayakshinde96">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/vinayak-shinde-0454622ab">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -86,6 +103,22 @@
 
 ---
 
-<h3 align="center">
-✨ Thanks for visiting my profile ✨
-</h3>
+## 💬 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h2 align="center">
+
+✨ Thanks For Visiting My Profile ✨
+
+</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+</p>
