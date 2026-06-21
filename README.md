@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-💻 Software Developer | Java Enthusiast | Open To Opportunities
+💻 Software Developer | Java Enthusiast
 </h3>
 
 <p align="center">
